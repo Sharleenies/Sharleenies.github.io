@@ -11,4 +11,4 @@ So what about in a city? This is movement in Melbourne during the AFL Grand Fina
 
 Same concept, after a long day at work, we follow the nearest exit or station to go home. Sometimes, we have somewhere else to go apart from home.
 
-![Image of Yaktocat](./images/ped_movement/Webp.net-gifmaker.gif)
+![Image of Yaktocat](../images/ped_movement/Webp.net-gifmaker.gif)
