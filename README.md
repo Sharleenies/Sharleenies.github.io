@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Do Our Movements Have Patterns?
+
+One of my earliest projects was part of a capstone project for the Data Science Immersive course I did in General Assembly Sydney. I wanted to look at the patterns in the way we move around in a space and how many of our patterns can be predictable. 
+
+We’re each our own individuals but very often we move along in crowds. Take for example, leaving a venue after a concert. Usually the exits are highlighted for us, there’ll be a couple of exits. A lot of us are going to follow the crowd to the nearest one, some of us know certain exits are closer to our cars, so we’ll move to those. But it’s with this majority that we can identify patterns with. 
+It's not weird that we all follow a certain pattern depending on our surroundings or the place we live in.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QWuHTXufElU" frameborder="0" allowfullscreen></iframe>
+
+So what about in a city? This is movement in Melbourne during the AFL Grand Final, you can see in the bottom right corner in Birrarung, the bubble getting bigger in noon time where a bunch of people are going into the grounds to watch the game and then again at 6pm to go home. During this time, areas with transport links start to spike as well, whilst others remain at a constant.
+
+Same concept, after a long day at work, we follow the nearest exit or station to go home. Sometimes, we have somewhere else to go apart from home.
+
+
 
 You can use the [editor on GitHub](https://github.com/Sharleenies/Sharleenies.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Sharleenies/Sharleenies.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
